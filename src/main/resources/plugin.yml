@@ -1,0 +1,4 @@
+name: BasicKit
+version: '1.0-SNAPSHOT'
+main: org.chamchi.basicKit.BasicKit
+api-version: '1.20'
